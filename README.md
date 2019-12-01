@@ -1,1 +1,1 @@
-# C-Studing
+# Welcome to C-Studing
