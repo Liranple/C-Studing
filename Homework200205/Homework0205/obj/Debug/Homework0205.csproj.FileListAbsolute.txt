@@ -1,0 +1,12 @@
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\bin\Debug\Homework0205.exe.config
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\bin\Debug\Homework0205.exe
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\bin\Debug\Homework0205.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\obj\Debug\Homework0205.csprojAssemblyReference.cache
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\obj\Debug\Homework0205.exe
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\Homework0205\obj\Debug\Homework0205.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\bin\Debug\Homework0205.exe.config
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\bin\Debug\Homework0205.exe
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\bin\Debug\Homework0205.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\obj\Debug\Homework0205.csprojAssemblyReference.cache
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\obj\Debug\Homework0205.exe
+C:\Users\huichan\Desktop\source\repos\Homework0205\Homework0205\obj\Debug\Homework0205.pdb
