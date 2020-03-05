@@ -1,0 +1,13 @@
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.exe
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.deps.json
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.runtimeconfig.json
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.runtimeconfig.dev.json
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.dll
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\bin\Debug\netcoreapp3.0\Homework0121.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.csprojAssemblyReference.cache
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.AssemblyInfoInputs.cache
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.AssemblyInfo.cs
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.dll
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.Properties.Resources.resources
+C:\Users\huichan\Desktop\source\repos\Homework0121\Homework0121\obj\Debug\netcoreapp3.0\Homework0121.csproj.GenerateResource.cache
