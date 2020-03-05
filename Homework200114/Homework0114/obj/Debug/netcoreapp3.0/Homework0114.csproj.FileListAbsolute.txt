@@ -1,0 +1,11 @@
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.exe
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.deps.json
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.runtimeconfig.json
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.runtimeconfig.dev.json
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.dll
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\bin\Debug\netcoreapp3.0\Homework0114.pdb
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\obj\Debug\netcoreapp3.0\Homework0114.csprojAssemblyReference.cache
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\obj\Debug\netcoreapp3.0\Homework0114.AssemblyInfoInputs.cache
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\obj\Debug\netcoreapp3.0\Homework0114.AssemblyInfo.cs
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\obj\Debug\netcoreapp3.0\Homework0114.dll
+C:\Users\huichan\Desktop\source\repos\Homework0114\Homework0114\obj\Debug\netcoreapp3.0\Homework0114.pdb
